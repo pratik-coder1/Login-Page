@@ -11,18 +11,18 @@
 }
 
 .box {
-  width: 400px;
+  width: 450px;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   padding: 50px;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.9);
   border-radius: 10px;
 }
 
 .box h1 {
-  margin-bottom: 25px;
+  margin-bottom: 30px;
   color: #fff;
   text-align: center;
   text-transform: capitalize;
@@ -34,13 +34,13 @@
 
 .box .input-box input {
   width: 100%;
-  padding: 10px;
-  font-size: 16px;
+  padding: 11px;
+  font-size: 17px;
   letter-spacing: 1px;
   color: #fff;
   margin-bottom: 30px;
   border: none;
-  border-bottom: 1px solid #fff;
+  border-bottom: 2px solid #fff;
   background: transparent;
   outline: none;
 }
@@ -52,8 +52,8 @@
   color: #fff;
   background: #03a9f4;
   padding: 9px 18px;
-  border-radius: 5px;
-  font-size: 14px;
+  border-radius: 4px;
+  font-size: 16px;
 }
 
 .box .input-box label {
